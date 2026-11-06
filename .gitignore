@@ -1,0 +1,38 @@
+# Folders generated automatically by Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Code editor files (regenerated automatically)
+.vs/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Builds and other files
+*.apk
+*.aab
+*.unitypackage
+*.app
+sysinfo.txt
+crashlytics-buildsettings.properties
+
+# macOS
+.DS_Store
